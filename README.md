@@ -25,3 +25,14 @@ Each lesson includes:
 ✔ Practical exercises  
 
 ---
+## 🗂 Repository Structure
+```
+Shell-Scripting/
+├── Introduction/
+├── Lesson-1/
+├── Lesson-2/
+├── Lesson-3/
+├── scripts/
+├── exercises/
+└── README.md
+```
