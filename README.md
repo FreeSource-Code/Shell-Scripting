@@ -57,3 +57,10 @@ To contribute:
 4. Open a pull request
 
 ---
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 🙌 Thanks for Visiting!
