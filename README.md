@@ -46,3 +46,14 @@ Shell-Scripting/
 5. Ask questions or open issues if you get stuck
 
 ---
+## 🤝 Contributing
+
+Contributions are welcome! 🎉  
+To contribute:
+
+1. Fork the repo
+2. Create a new branch
+3. Add your lesson/script
+4. Open a pull request
+
+---
