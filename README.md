@@ -36,3 +36,13 @@ Shell-Scripting/
 ├── exercises/
 └── README.md
 ```
+
+## 🧠 How to Learn
+
+1. Start with **Introduction**
+2. Follow each lesson in order
+3. Run and test scripts in your terminal
+4. Try the practice exercises
+5. Ask questions or open issues if you get stuck
+
+---
