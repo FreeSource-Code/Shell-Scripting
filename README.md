@@ -64,3 +64,6 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 🙌 Thanks for Visiting!
+
+Happy scripting! 🚀  
+If you like this tutorial, ⭐ star the repo and share it with others!
